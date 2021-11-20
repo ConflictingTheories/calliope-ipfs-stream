@@ -1,0 +1,42 @@
+{
+  "name": "calliope-ipfs-stream",
+  "version": "0.1.0",
+  "description": "Calliope Plugin for IPFS streaming videos",
+  "main": "jsx/index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calliope",
+    "mermaid",
+    "html5",
+    "diagram",
+    "react",
+    "blog",
+    "web",
+    "markdown"
+  ],
+  "homepage": "https://calliope.site",
+  "repository": {
+    "url": "git+https://github.com/ConflictingTheories/calliope-ipfs-stream.git",
+    "type": "git"
+  },
+  "author": "Kyle Derby MacInnis",
+  "license": "ISC",
+  "dependencies": {
+    "hls.js": "^1.1.1",
+    "hlsjs-ipfs-loader": "^0.3.1",
+    "ipfs-core": "^0.12.1"
+  },
+  "devDependencies": {
+    "react": "^17.0.2",
+    "react-recollect": "^5.2.3"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-recollect": "^5.2.3"
+  },
+  "bugs": {
+    "url": "https://github.com/ConflictingTheories/calliope-ipfs-stream/issues"
+  }
+}
