@@ -1,6 +1,6 @@
 {
   "name": "calliope-ipfs-stream",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Calliope Plugin for IPFS streaming videos",
   "main": "dist/index.js",
   "scripts": {
